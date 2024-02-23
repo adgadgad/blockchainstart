@@ -1,5 +1,5 @@
 package main
-import "https://github.com/adgadgad/blockchainnetwork/blob/main/network.go"
+import "https://github.com/adgadgad/blockchainstart/blob/main/networkchain/network.go"
 import (
 	"fmt" // just for printing something on the screen
 	"network"
