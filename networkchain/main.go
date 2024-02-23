@@ -2,7 +2,6 @@ package main
 import "https://github.com/adgadgad/blockchainstart/blob/main/networkchain/network.go"
 import (
 	"fmt" // just for printing something on the screen
-	"network"
 )
 
 func main(args []string) {
